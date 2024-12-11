@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bharatiya Ballot</title>
+    <link rel="stylesheet" href="Login.css">
+    <script src="scriptlogin.js" defer></script>
+</head>
+<body>
+    <header class="header">
+        <div class="title-container">
+            <img src="https://www.hindustantimes.com/ht-img/img/2024/01/24/1600x900/MixCollage-24-Jan-2024-08-28-PM-8341_1706108062305_1706108090951.jpg" 
+                 alt="Bharatiya Ballot Logo" class="logo">
+            <h1 class="tri-color-text">Bharatiya Ballot</h1>
+        </div>
+    </header>
+    <div class="login-container">
+        <h2>Login</h2>
+        <form id="loginForm">
+            <div class="form-group">
+                <label for="aadhar">Aadhaar Number</label>
+                <input type="text" id="aadhar" name="aadhar" placeholder="Enter your Aadhaar number">
+                <p id="error-message" class="error-message"></p>
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" name="password" placeholder="Enter your password" required>
+            </div>
+            <button type="submit" class="btn-login">Login</button>
+        </form>
+        <p class="footer-text">Not registered? <a href="/register">Create an account</a></p>
+    </div>
+</body>
+</html>

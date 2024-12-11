@@ -1,0 +1,23 @@
+const jsp_candidates={
+        "Palakonda": "JAYAKRISHNA NIMMAKA",
+        "Nellimarla": "LOKAM NAGA MADHAVI",
+        "Visakhapatnam South": "CH.VAMSI KRISHNA SRINIVAS",
+        "Anakapalle": "KONATHALA RAMAKRISHNA",
+        "Pendurthi": "PANCHAKARLA RAMESH BABU",
+        "Yelamanchili": "SUNDARAPU VIJAY KUMAR",
+        "Pithapuram": "KONIDALA PAWAN KALYAN",
+        "Kakinada Rural": "PANTAM VENKATESWARA RAO (PANTAM NANAJI)",
+        "Razole": "DEVA VARAPRASAD",
+        "Gannavaram (SC)": "GIDDI. SATYANARAYANA",
+        "Rajanagaram": "BATHULA BALARAMAKRISHNA S/O GANGARAO",
+        "Nidadavole": "KANDULA DURGESH",
+        "Narasapuram": "BOMMIDI NARAYANA NAYAKAR",
+        "Bhimavaram": "RAMANJANEYULU PULAPARTHI (ANJIBABU)",
+        "Tadepalligudem": "BOLISETTY SRINIVAS",
+        "Ungutur": "DHARMARAJU PATSAMATLA",
+        "Polavaram": "CHIRRI BALARAJU",
+        "Avanigadda": "BUDDHAPRASAD MANDALI",
+        "Tenali": "NADENDLA MANOHAR",
+        "Kodur (SC)": "ARAVA SREEDHAR",
+        "Tirupati": "ARANII SRENEVASULU"
+      };
